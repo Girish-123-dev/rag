@@ -1,0 +1,1694 @@
+{
+  "Stress": [
+    {
+      "id": "stress_001",
+      "domain": "Stress",
+      "question": "How often do you feel worried or anxious?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel worried or anxious?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "stress_002",
+      "domain": "Stress",
+      "question": "How often do you feel restless during the day?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel restless during the day?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "stress_003",
+      "domain": "Stress",
+      "question": "How often do you need help to calm down?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you need help to calm down?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_004",
+      "domain": "Stress",
+      "question": "How severe is your reaction to remembering upsetting events?",
+      "options": [
+        "None",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "correct": null,
+      "voice_text": "How severe is your reaction to remembering upsetting events?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_005",
+      "domain": "Stress",
+      "question": "How often do you feel sad or lonely?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel sad or lonely?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "stress_006",
+      "domain": "Stress",
+      "question": "How comfortable are you in social settings?",
+      "options": [
+        "Very comfortable",
+        "Somewhat comfortable",
+        "Uncomfortable",
+        "Very uncomfortable"
+      ],
+      "correct": null,
+      "voice_text": "How comfortable are you in social settings?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_007",
+      "domain": "Stress",
+      "question": "How often do you repeat questions due to anxiety?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you repeat questions due to anxiety?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_008",
+      "domain": "Stress",
+      "question": "How often do you feel stressed in large groups?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel stressed in large groups?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_009",
+      "domain": "Stress",
+      "question": "How often do you feel overwhelmed by changes?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel overwhelmed by changes?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_010",
+      "domain": "Stress",
+      "question": "How severe is your stress when plans change suddenly?",
+      "options": [
+        "None",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "correct": null,
+      "voice_text": "How severe is your stress when plans change suddenly?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_011",
+      "domain": "Stress",
+      "question": "How often do you feel anxious about your health?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel anxious about your health?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "stress_012",
+      "domain": "Stress",
+      "question": "How often do you feel stressed about daily tasks?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel stressed about daily tasks?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "stress_013",
+      "domain": "Stress",
+      "question": "How often do you feel nervous around strangers?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel nervous around strangers?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_014",
+      "domain": "Stress",
+      "question": "How severe is your stress when you can't remember something?",
+      "options": [
+        "None",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "correct": null,
+      "voice_text": "How severe is your stress when you can't remember something?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_015",
+      "domain": "Stress",
+      "question": "How often do you feel stressed when you are alone?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel stressed when you are alone?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "stress_016",
+      "domain": "Stress",
+      "question": "How often do you feel anxious about the future?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel anxious about the future?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "stress_017",
+      "domain": "Stress",
+      "question": "How often do you feel stressed when you can't find something?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel stressed when you can't find something?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_018",
+      "domain": "Stress",
+      "question": "How severe is your stress when you hear loud noises?",
+      "options": [
+        "None",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "correct": null,
+      "voice_text": "How severe is your stress when you hear loud noises?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_019",
+      "domain": "Stress",
+      "question": "How often do you feel stressed when you are in a new place?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel stressed when you are in a new place?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "stress_020",
+      "domain": "Stress",
+      "question": "How often do you feel stressed when you have visitors?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel stressed when you have visitors?",
+      "difficulty": "medium"
+    }
+  ],
+  "Activity": [
+    {
+      "id": "activity_001",
+      "domain": "Activity",
+      "question": "How often do you participate in activities you enjoy?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you participate in activities you enjoy?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_002",
+      "domain": "Activity",
+      "question": "Do you need help with dressing yourself?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with dressing yourself?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_003",
+      "domain": "Activity",
+      "question": "How often do you go for a walk outside?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you go for a walk outside?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_004",
+      "domain": "Activity",
+      "question": "Do you enjoy social activities with others?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "Do you enjoy social activities with others?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_005",
+      "domain": "Activity",
+      "question": "How often do you feel motivated to start new activities?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel motivated to start new activities?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_006",
+      "domain": "Activity",
+      "question": "Do you need help with eating meals?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with eating meals?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_007",
+      "domain": "Activity",
+      "question": "How often do you engage in hobbies or crafts?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you engage in hobbies or crafts?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_008",
+      "domain": "Activity",
+      "question": "Do you need assistance with bathing or showering?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need assistance with bathing or showering?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_009",
+      "domain": "Activity",
+      "question": "How often do you feel tired during the day?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel tired during the day?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_010",
+      "domain": "Activity",
+      "question": "Do you need help with using the toilet?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with using the toilet?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_011",
+      "domain": "Activity",
+      "question": "How often do you participate in group activities?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you participate in group activities?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_012",
+      "domain": "Activity",
+      "question": "Do you need help with moving from bed to chair?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with moving from bed to chair?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_013",
+      "domain": "Activity",
+      "question": "How often do you feel interested in daily activities?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel interested in daily activities?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_014",
+      "domain": "Activity",
+      "question": "Do you need help with preparing meals?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with preparing meals?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_015",
+      "domain": "Activity",
+      "question": "How often do you visit friends or family?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you visit friends or family?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_016",
+      "domain": "Activity",
+      "question": "Do you need help with managing medications?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with managing medications?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_017",
+      "domain": "Activity",
+      "question": "How often do you feel happy during activities?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel happy during activities?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_018",
+      "domain": "Activity",
+      "question": "Do you need help with household chores?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with household chores?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "activity_019",
+      "domain": "Activity",
+      "question": "How often do you listen to music or watch TV?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you listen to music or watch TV?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "activity_020",
+      "domain": "Activity",
+      "question": "Do you need help with using the phone?",
+      "options": [
+        "Never",
+        "Sometimes",
+        "Often",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you need help with using the phone?",
+      "difficulty": "medium"
+    }
+  ],
+  "Sleep": [
+    {
+      "id": "sleep_041",
+      "domain": "Sleep",
+      "question": "How often does the patient have difficulty falling asleep at night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient have difficulty falling asleep at night?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_042",
+      "domain": "Sleep",
+      "question": "How often does the patient wake up during the night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient wake up during the night?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_043",
+      "domain": "Sleep",
+      "question": "How often does the patient feel rested after a night of sleep?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient feel rested after a night of sleep?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_044",
+      "domain": "Sleep",
+      "question": "How often does the patient sleep during the day (napping for more than 1 hour)?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient sleep during the day, napping for more than one hour?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_045",
+      "domain": "Sleep",
+      "question": "How often does the patient express complaints about poor sleep or tiredness?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient express complaints about poor sleep or tiredness?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_046",
+      "domain": "Sleep",
+      "question": "How severe is the overall impact of sleep disturbance on the patient's health and daily functioning?",
+      "options": [
+        "None",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "correct": null,
+      "voice_text": "How severe is the overall impact of sleep disturbance on the patient's health and daily functioning?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sleep_047",
+      "domain": "Sleep",
+      "question": "How often does the patient require a caregiver to assist them in returning to sleep during the night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient require a caregiver to assist them in returning to sleep during the night?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_048",
+      "domain": "Sleep",
+      "question": "How severe are the patient's symptoms of sleep apnoea or breathing difficulties during sleep?",
+      "options": [
+        "None",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "correct": null,
+      "voice_text": "How severe are the patient's symptoms of sleep apnoea or breathing difficulties during sleep?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "sleep_049",
+      "domain": "Sleep",
+      "question": "How often does the patient experience nightmares or vivid dreams?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient experience nightmares or vivid dreams?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_050",
+      "domain": "Sleep",
+      "question": "How often does the patient talk or move during sleep?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient talk or move during sleep?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_051",
+      "domain": "Sleep",
+      "question": "How often does the patient feel confused or disoriented upon waking?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient feel confused or disoriented upon waking?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_052",
+      "domain": "Sleep",
+      "question": "How often does the patient need to use the bathroom during the night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient need to use the bathroom during the night?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_053",
+      "domain": "Sleep",
+      "question": "How often does the patient experience restless legs or discomfort in the legs at night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient experience restless legs or discomfort in the legs at night?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_054",
+      "domain": "Sleep",
+      "question": "How often does the patient feel sleepy or drowsy during the day?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient feel sleepy or drowsy during the day?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_055",
+      "domain": "Sleep",
+      "question": "How often does the patient require medication to help with sleep?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient require medication to help with sleep?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_056",
+      "domain": "Sleep",
+      "question": "How often does the patient experience headaches upon waking?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient experience headaches upon waking?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_057",
+      "domain": "Sleep",
+      "question": "How often does the patient experience dry mouth or throat upon waking?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient experience dry mouth or throat upon waking?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_058",
+      "domain": "Sleep",
+      "question": "How often does the patient experience heartburn or indigestion at night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient experience heartburn or indigestion at night?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_059",
+      "domain": "Sleep",
+      "question": "How often does the patient experience muscle cramps at night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient experience muscle cramps at night?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "sleep_060",
+      "domain": "Sleep",
+      "question": "How often does the patient experience anxiety or worry that affects sleep?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient experience anxiety or worry that affects sleep?",
+      "difficulty": "medium"
+    }
+  ],
+  "Food": [
+    {
+      "id": "food_001",
+      "domain": "Food",
+      "question": "How often does the patient eat independently?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient eat independently?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_002",
+      "domain": "Food",
+      "question": "Does the patient recognise common food items?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient recognise common food items?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_003",
+      "domain": "Food",
+      "question": "How often does the patient need help with eating?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient need help with eating?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_004",
+      "domain": "Food",
+      "question": "How often does the patient show interest in food?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient show interest in food?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_005",
+      "domain": "Food",
+      "question": "How often does the patient drink enough fluids?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient drink enough fluids?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_006",
+      "domain": "Food",
+      "question": "Does the patient need a modified diet?",
+      "options": [
+        "No",
+        "Mildly modified",
+        "Moderately modified",
+        "Severely modified"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient need a modified diet?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_007",
+      "domain": "Food",
+      "question": "How often does the patient refuse food?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient refuse food?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_008",
+      "domain": "Food",
+      "question": "Does the patient recognise when they are hungry?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient recognise when they are hungry?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "food_009",
+      "domain": "Food",
+      "question": "How often does the patient eat non-food items?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient eat non-food items?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "food_010",
+      "domain": "Food",
+      "question": "Does the patient enjoy mealtimes?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient enjoy mealtimes?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_011",
+      "domain": "Food",
+      "question": "How often does the patient spill food while eating?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient spill food while eating?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_012",
+      "domain": "Food",
+      "question": "Does the patient need help with drinking?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient need help with drinking?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_013",
+      "domain": "Food",
+      "question": "How often does the patient forget to eat?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient forget to eat?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "food_014",
+      "domain": "Food",
+      "question": "Does the patient recognise the purpose of food?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient recognise the purpose of food?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "food_015",
+      "domain": "Food",
+      "question": "How often does the patient need reminders to eat?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient need reminders to eat?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_016",
+      "domain": "Food",
+      "question": "Does the patient enjoy different types of food?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient enjoy different types of food?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "food_017",
+      "domain": "Food",
+      "question": "How often does the patient eat too quickly?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient eat too quickly?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_018",
+      "domain": "Food",
+      "question": "Does the patient need help with cutting food?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient need help with cutting food?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_019",
+      "domain": "Food",
+      "question": "How often does the patient express thirst?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "How often does the patient express thirst?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "food_020",
+      "domain": "Food",
+      "question": "Does the patient recognise when they are full?",
+      "options": [
+        "Always",
+        "Sometimes",
+        "Rarely",
+        "Never"
+      ],
+      "correct": null,
+      "voice_text": "Does the patient recognise when they are full?",
+      "difficulty": "hard"
+    }
+  ],
+  "Disease": [
+    {
+      "id": "disease_001",
+      "domain": "Disease",
+      "question": "How often do you feel tired during the day?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel tired during the day?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "disease_002",
+      "domain": "Disease",
+      "question": "Do you have trouble sleeping at night?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have trouble sleeping at night?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "disease_003",
+      "domain": "Disease",
+      "question": "How often do you feel confused or disoriented?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel confused or disoriented?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_004",
+      "domain": "Disease",
+      "question": "Do you find it hard to remember recent events?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you find it hard to remember recent events?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_005",
+      "domain": "Disease",
+      "question": "How often do you need help with daily activities?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you need help with daily activities?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_006",
+      "domain": "Disease",
+      "question": "Do you feel anxious or worried often?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you feel anxious or worried often?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "disease_007",
+      "domain": "Disease",
+      "question": "How often do you experience mood swings?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you experience mood swings?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_008",
+      "domain": "Disease",
+      "question": "Do you have difficulty recognizing familiar people?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have difficulty recognizing familiar people?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "disease_009",
+      "domain": "Disease",
+      "question": "How often do you feel sad or depressed?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel sad or depressed?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "disease_010",
+      "domain": "Disease",
+      "question": "Do you have trouble finding the right words when speaking?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have trouble finding the right words when speaking?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_011",
+      "domain": "Disease",
+      "question": "How often do you feel dizzy or lightheaded?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel dizzy or lightheaded?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_012",
+      "domain": "Disease",
+      "question": "Do you have difficulty following conversations?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have difficulty following conversations?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "disease_013",
+      "domain": "Disease",
+      "question": "How often do you feel pain or discomfort?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel pain or discomfort?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "disease_014",
+      "domain": "Disease",
+      "question": "Do you have trouble with balance or walking?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have trouble with balance or walking?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_015",
+      "domain": "Disease",
+      "question": "How often do you feel short of breath?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel short of breath?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_016",
+      "domain": "Disease",
+      "question": "Do you have difficulty understanding written information?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have difficulty understanding written information?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "disease_017",
+      "domain": "Disease",
+      "question": "How often do you feel restless or agitated?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel restless or agitated?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_018",
+      "domain": "Disease",
+      "question": "Do you have trouble with vision or seeing clearly?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have trouble with vision or seeing clearly?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "disease_019",
+      "domain": "Disease",
+      "question": "How often do you feel like you are losing track of time?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "How often do you feel like you are losing track of time?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "disease_020",
+      "domain": "Disease",
+      "question": "Do you have difficulty with eating or swallowing?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Always"
+      ],
+      "correct": null,
+      "voice_text": "Do you have difficulty with eating or swallowing?",
+      "difficulty": "hard"
+    }
+  ],
+  "Memory": [
+    {
+      "id": "memory_001",
+      "domain": "Memory",
+      "question": "Do you remember what you had for breakfast today?",
+      "options": [
+        "Yes, I remember clearly",
+        "I remember a little",
+        "I don't remember",
+        "I didn't have breakfast"
+      ],
+      "correct": null,
+      "voice_text": "Do you remember what you had for breakfast today?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "memory_002",
+      "domain": "Memory",
+      "question": "Can you recall the name of a close family member?",
+      "options": [
+        "Yes, easily",
+        "With some difficulty",
+        "I need help to remember",
+        "I can't remember"
+      ],
+      "correct": null,
+      "voice_text": "Can you recall the name of a close family member?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "memory_003",
+      "domain": "Memory",
+      "question": "How often do you forget where you placed your keys?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you forget where you placed your keys?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_004",
+      "domain": "Memory",
+      "question": "Do you remember the name of the current month?",
+      "options": [
+        "Yes, I remember",
+        "I think I know",
+        "I'm not sure",
+        "I don't remember"
+      ],
+      "correct": null,
+      "voice_text": "Do you remember the name of the current month?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_005",
+      "domain": "Memory",
+      "question": "Can you recall a recent event from last week?",
+      "options": [
+        "Yes, clearly",
+        "A little bit",
+        "Not really",
+        "Not at all"
+      ],
+      "correct": null,
+      "voice_text": "Can you recall a recent event from last week?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "memory_006",
+      "domain": "Memory",
+      "question": "How often do you forget appointments or meetings?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you forget appointments or meetings?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_007",
+      "domain": "Memory",
+      "question": "Do you remember the name of your street?",
+      "options": [
+        "Yes, easily",
+        "With some thought",
+        "I need help to remember",
+        "I can't remember"
+      ],
+      "correct": null,
+      "voice_text": "Do you remember the name of your street?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "memory_008",
+      "domain": "Memory",
+      "question": "Can you recall what you did yesterday?",
+      "options": [
+        "Yes, clearly",
+        "A little bit",
+        "Not really",
+        "Not at all"
+      ],
+      "correct": null,
+      "voice_text": "Can you recall what you did yesterday?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_009",
+      "domain": "Memory",
+      "question": "How often do you forget to take your medication?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you forget to take your medication?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_010",
+      "domain": "Memory",
+      "question": "Do you remember the name of your doctor?",
+      "options": [
+        "Yes, I remember",
+        "I think I know",
+        "I'm not sure",
+        "I don't remember"
+      ],
+      "correct": null,
+      "voice_text": "Do you remember the name of your doctor?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "memory_011",
+      "domain": "Memory",
+      "question": "Can you recall a favorite childhood memory?",
+      "options": [
+        "Yes, easily",
+        "With some difficulty",
+        "I need help to remember",
+        "I can't remember"
+      ],
+      "correct": null,
+      "voice_text": "Can you recall a favorite childhood memory?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "memory_012",
+      "domain": "Memory",
+      "question": "How often do you forget the names of people you just met?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you forget the names of people you just met?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_013",
+      "domain": "Memory",
+      "question": "Do you remember your birth date?",
+      "options": [
+        "Yes, easily",
+        "With some thought",
+        "I need help to remember",
+        "I can't remember"
+      ],
+      "correct": null,
+      "voice_text": "Do you remember your birth date?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "memory_014",
+      "domain": "Memory",
+      "question": "Can you recall the last movie you watched?",
+      "options": [
+        "Yes, clearly",
+        "A little bit",
+        "Not really",
+        "Not at all"
+      ],
+      "correct": null,
+      "voice_text": "Can you recall the last movie you watched?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_015",
+      "domain": "Memory",
+      "question": "How often do you forget to turn off the lights?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you forget to turn off the lights?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_016",
+      "domain": "Memory",
+      "question": "Do you remember the name of your favorite book?",
+      "options": [
+        "Yes, I remember",
+        "I think I know",
+        "I'm not sure",
+        "I don't remember"
+      ],
+      "correct": null,
+      "voice_text": "Do you remember the name of your favorite book?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "memory_017",
+      "domain": "Memory",
+      "question": "Can you recall the name of your first school?",
+      "options": [
+        "Yes, easily",
+        "With some difficulty",
+        "I need help to remember",
+        "I can't remember"
+      ],
+      "correct": null,
+      "voice_text": "Can you recall the name of your first school?",
+      "difficulty": "hard"
+    },
+    {
+      "id": "memory_018",
+      "domain": "Memory",
+      "question": "How often do you forget to lock the door?",
+      "options": [
+        "Never",
+        "Rarely",
+        "Sometimes",
+        "Often"
+      ],
+      "correct": null,
+      "voice_text": "How often do you forget to lock the door?",
+      "difficulty": "medium"
+    },
+    {
+      "id": "memory_019",
+      "domain": "Memory",
+      "question": "Do you remember the name of a close friend?",
+      "options": [
+        "Yes, easily",
+        "With some thought",
+        "I need help to remember",
+        "I can't remember"
+      ],
+      "correct": null,
+      "voice_text": "Do you remember the name of a close friend?",
+      "difficulty": "easy"
+    },
+    {
+      "id": "memory_020",
+      "domain": "Memory",
+      "question": "Can you recall a recent holiday or trip?",
+      "options": [
+        "Yes, clearly",
+        "A little bit",
+        "Not really",
+        "Not at all"
+      ],
+      "correct": null,
+      "voice_text": "Can you recall a recent holiday or trip?",
+      "difficulty": "hard"
+    }
+  ]
+}

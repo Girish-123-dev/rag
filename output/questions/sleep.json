@@ -1,0 +1,282 @@
+[
+  {
+    "id": "sleep_041",
+    "domain": "Sleep",
+    "question": "How often does the patient have difficulty falling asleep at night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient have difficulty falling asleep at night?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_042",
+    "domain": "Sleep",
+    "question": "How often does the patient wake up during the night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient wake up during the night?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_043",
+    "domain": "Sleep",
+    "question": "How often does the patient feel rested after a night of sleep?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient feel rested after a night of sleep?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_044",
+    "domain": "Sleep",
+    "question": "How often does the patient sleep during the day (napping for more than 1 hour)?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient sleep during the day, napping for more than one hour?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_045",
+    "domain": "Sleep",
+    "question": "How often does the patient express complaints about poor sleep or tiredness?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient express complaints about poor sleep or tiredness?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_046",
+    "domain": "Sleep",
+    "question": "How severe is the overall impact of sleep disturbance on the patient's health and daily functioning?",
+    "options": [
+      "None",
+      "Mild",
+      "Moderate",
+      "Severe"
+    ],
+    "correct": null,
+    "voice_text": "How severe is the overall impact of sleep disturbance on the patient's health and daily functioning?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "sleep_047",
+    "domain": "Sleep",
+    "question": "How often does the patient require a caregiver to assist them in returning to sleep during the night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient require a caregiver to assist them in returning to sleep during the night?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_048",
+    "domain": "Sleep",
+    "question": "How severe are the patient's symptoms of sleep apnoea or breathing difficulties during sleep?",
+    "options": [
+      "None",
+      "Mild",
+      "Moderate",
+      "Severe"
+    ],
+    "correct": null,
+    "voice_text": "How severe are the patient's symptoms of sleep apnoea or breathing difficulties during sleep?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "sleep_049",
+    "domain": "Sleep",
+    "question": "How often does the patient experience nightmares or vivid dreams?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient experience nightmares or vivid dreams?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_050",
+    "domain": "Sleep",
+    "question": "How often does the patient talk or move during sleep?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient talk or move during sleep?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_051",
+    "domain": "Sleep",
+    "question": "How often does the patient feel confused or disoriented upon waking?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient feel confused or disoriented upon waking?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_052",
+    "domain": "Sleep",
+    "question": "How often does the patient need to use the bathroom during the night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient need to use the bathroom during the night?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_053",
+    "domain": "Sleep",
+    "question": "How often does the patient experience restless legs or discomfort in the legs at night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient experience restless legs or discomfort in the legs at night?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_054",
+    "domain": "Sleep",
+    "question": "How often does the patient feel sleepy or drowsy during the day?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient feel sleepy or drowsy during the day?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_055",
+    "domain": "Sleep",
+    "question": "How often does the patient require medication to help with sleep?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient require medication to help with sleep?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_056",
+    "domain": "Sleep",
+    "question": "How often does the patient experience headaches upon waking?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient experience headaches upon waking?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_057",
+    "domain": "Sleep",
+    "question": "How often does the patient experience dry mouth or throat upon waking?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient experience dry mouth or throat upon waking?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_058",
+    "domain": "Sleep",
+    "question": "How often does the patient experience heartburn or indigestion at night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient experience heartburn or indigestion at night?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_059",
+    "domain": "Sleep",
+    "question": "How often does the patient experience muscle cramps at night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient experience muscle cramps at night?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "sleep_060",
+    "domain": "Sleep",
+    "question": "How often does the patient experience anxiety or worry that affects sleep?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient experience anxiety or worry that affects sleep?",
+    "difficulty": "medium"
+  }
+]

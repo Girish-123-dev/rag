@@ -1,0 +1,282 @@
+[
+  {
+    "id": "memory_001",
+    "domain": "Memory",
+    "question": "Do you remember what you had for breakfast today?",
+    "options": [
+      "Yes, I remember clearly",
+      "I remember a little",
+      "I don't remember",
+      "I didn't have breakfast"
+    ],
+    "correct": null,
+    "voice_text": "Do you remember what you had for breakfast today?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "memory_002",
+    "domain": "Memory",
+    "question": "Can you recall the name of a close family member?",
+    "options": [
+      "Yes, easily",
+      "With some difficulty",
+      "I need help to remember",
+      "I can't remember"
+    ],
+    "correct": null,
+    "voice_text": "Can you recall the name of a close family member?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "memory_003",
+    "domain": "Memory",
+    "question": "How often do you forget where you placed your keys?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you forget where you placed your keys?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_004",
+    "domain": "Memory",
+    "question": "Do you remember the name of the current month?",
+    "options": [
+      "Yes, I remember",
+      "I think I know",
+      "I'm not sure",
+      "I don't remember"
+    ],
+    "correct": null,
+    "voice_text": "Do you remember the name of the current month?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_005",
+    "domain": "Memory",
+    "question": "Can you recall a recent event from last week?",
+    "options": [
+      "Yes, clearly",
+      "A little bit",
+      "Not really",
+      "Not at all"
+    ],
+    "correct": null,
+    "voice_text": "Can you recall a recent event from last week?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "memory_006",
+    "domain": "Memory",
+    "question": "How often do you forget appointments or meetings?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you forget appointments or meetings?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_007",
+    "domain": "Memory",
+    "question": "Do you remember the name of your street?",
+    "options": [
+      "Yes, easily",
+      "With some thought",
+      "I need help to remember",
+      "I can't remember"
+    ],
+    "correct": null,
+    "voice_text": "Do you remember the name of your street?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "memory_008",
+    "domain": "Memory",
+    "question": "Can you recall what you did yesterday?",
+    "options": [
+      "Yes, clearly",
+      "A little bit",
+      "Not really",
+      "Not at all"
+    ],
+    "correct": null,
+    "voice_text": "Can you recall what you did yesterday?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_009",
+    "domain": "Memory",
+    "question": "How often do you forget to take your medication?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you forget to take your medication?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_010",
+    "domain": "Memory",
+    "question": "Do you remember the name of your doctor?",
+    "options": [
+      "Yes, I remember",
+      "I think I know",
+      "I'm not sure",
+      "I don't remember"
+    ],
+    "correct": null,
+    "voice_text": "Do you remember the name of your doctor?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "memory_011",
+    "domain": "Memory",
+    "question": "Can you recall a favorite childhood memory?",
+    "options": [
+      "Yes, easily",
+      "With some difficulty",
+      "I need help to remember",
+      "I can't remember"
+    ],
+    "correct": null,
+    "voice_text": "Can you recall a favorite childhood memory?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "memory_012",
+    "domain": "Memory",
+    "question": "How often do you forget the names of people you just met?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you forget the names of people you just met?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_013",
+    "domain": "Memory",
+    "question": "Do you remember your birth date?",
+    "options": [
+      "Yes, easily",
+      "With some thought",
+      "I need help to remember",
+      "I can't remember"
+    ],
+    "correct": null,
+    "voice_text": "Do you remember your birth date?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "memory_014",
+    "domain": "Memory",
+    "question": "Can you recall the last movie you watched?",
+    "options": [
+      "Yes, clearly",
+      "A little bit",
+      "Not really",
+      "Not at all"
+    ],
+    "correct": null,
+    "voice_text": "Can you recall the last movie you watched?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_015",
+    "domain": "Memory",
+    "question": "How often do you forget to turn off the lights?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you forget to turn off the lights?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_016",
+    "domain": "Memory",
+    "question": "Do you remember the name of your favorite book?",
+    "options": [
+      "Yes, I remember",
+      "I think I know",
+      "I'm not sure",
+      "I don't remember"
+    ],
+    "correct": null,
+    "voice_text": "Do you remember the name of your favorite book?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "memory_017",
+    "domain": "Memory",
+    "question": "Can you recall the name of your first school?",
+    "options": [
+      "Yes, easily",
+      "With some difficulty",
+      "I need help to remember",
+      "I can't remember"
+    ],
+    "correct": null,
+    "voice_text": "Can you recall the name of your first school?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "memory_018",
+    "domain": "Memory",
+    "question": "How often do you forget to lock the door?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you forget to lock the door?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "memory_019",
+    "domain": "Memory",
+    "question": "Do you remember the name of a close friend?",
+    "options": [
+      "Yes, easily",
+      "With some thought",
+      "I need help to remember",
+      "I can't remember"
+    ],
+    "correct": null,
+    "voice_text": "Do you remember the name of a close friend?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "memory_020",
+    "domain": "Memory",
+    "question": "Can you recall a recent holiday or trip?",
+    "options": [
+      "Yes, clearly",
+      "A little bit",
+      "Not really",
+      "Not at all"
+    ],
+    "correct": null,
+    "voice_text": "Can you recall a recent holiday or trip?",
+    "difficulty": "hard"
+  }
+]

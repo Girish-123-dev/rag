@@ -1,0 +1,52 @@
+# Dementia App - RAG System Requirements
+# Python 3.11+
+# Last verified: March 2026
+
+# ── Embeddings ─────────────────────────────────────────────────────────────────
+sentence-transformers>=5.0.0   # neuml/pubmedbert-base-embeddings (438MB, medical-grade)
+
+# ── Vector Store ───────────────────────────────────────────────────────────────
+# pgvector (default — production PostgreSQL)
+langchain-postgres>=0.0.9      # LangChain pgvector integration
+psycopg2-binary>=2.9.0         # PostgreSQL driver
+
+# FAISS (local dev only — no database needed)
+faiss-cpu>=1.9.0
+
+# numpy: pinned below 2.0 for bert-score compatibility
+numpy>=1.26.0,<2.0.0
+
+# ── PDF Processing ─────────────────────────────────────────────────────────────
+PyMuPDF>=1.25.0                # fitz — PDF text extraction
+
+# ── LangChain Ecosystem ────────────────────────────────────────────────────────
+langchain>=0.3.0,<2.0.0
+langchain-core>=0.3.0,<2.0.0
+langchain-community>=0.3.0,<1.0.0
+langchain-text-splitters>=0.3.0,<2.0.0
+
+# ── LLM Backends ───────────────────────────────────────────────────────────────
+langchain-openai>=0.1.0        # OpenAI GPT-4o — default production LLM
+langchain-ollama>=0.1.0        # local Ollama — fallback for dev without API key
+
+# ── Environment Variables ──────────────────────────────────────────────────────
+python-dotenv>=1.0.0           # loads .env file automatically
+
+# ── API Server (FR-204 admin upload endpoint) ──────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+pydantic>=2.7.0
+
+# ── Evaluation ─────────────────────────────────────────────────────────────────
+pandas>=2.2.0
+scikit-learn>=1.4.0
+bert-score>=0.3.13             # requires numpy<2.0 (pinned above)
+tabulate>=0.9.0
+tqdm>=4.66.0
+
+# ── Dev / Optional ─────────────────────────────────────────────────────────────
+pytest>=7.0.0
+black>=24.3.0
+isort>=5.12.0
+pre-commit>=3.3.0

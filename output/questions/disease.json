@@ -1,0 +1,282 @@
+[
+  {
+    "id": "disease_001",
+    "domain": "Disease",
+    "question": "How often do you feel tired during the day?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel tired during the day?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "disease_002",
+    "domain": "Disease",
+    "question": "Do you have trouble sleeping at night?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have trouble sleeping at night?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "disease_003",
+    "domain": "Disease",
+    "question": "How often do you feel confused or disoriented?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel confused or disoriented?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_004",
+    "domain": "Disease",
+    "question": "Do you find it hard to remember recent events?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you find it hard to remember recent events?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_005",
+    "domain": "Disease",
+    "question": "How often do you need help with daily activities?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you need help with daily activities?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_006",
+    "domain": "Disease",
+    "question": "Do you feel anxious or worried often?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you feel anxious or worried often?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "disease_007",
+    "domain": "Disease",
+    "question": "How often do you experience mood swings?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you experience mood swings?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_008",
+    "domain": "Disease",
+    "question": "Do you have difficulty recognizing familiar people?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have difficulty recognizing familiar people?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "disease_009",
+    "domain": "Disease",
+    "question": "How often do you feel sad or depressed?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel sad or depressed?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "disease_010",
+    "domain": "Disease",
+    "question": "Do you have trouble finding the right words when speaking?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have trouble finding the right words when speaking?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_011",
+    "domain": "Disease",
+    "question": "How often do you feel dizzy or lightheaded?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel dizzy or lightheaded?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_012",
+    "domain": "Disease",
+    "question": "Do you have difficulty following conversations?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have difficulty following conversations?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "disease_013",
+    "domain": "Disease",
+    "question": "How often do you feel pain or discomfort?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel pain or discomfort?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "disease_014",
+    "domain": "Disease",
+    "question": "Do you have trouble with balance or walking?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have trouble with balance or walking?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_015",
+    "domain": "Disease",
+    "question": "How often do you feel short of breath?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel short of breath?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_016",
+    "domain": "Disease",
+    "question": "Do you have difficulty understanding written information?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have difficulty understanding written information?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "disease_017",
+    "domain": "Disease",
+    "question": "How often do you feel restless or agitated?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel restless or agitated?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_018",
+    "domain": "Disease",
+    "question": "Do you have trouble with vision or seeing clearly?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have trouble with vision or seeing clearly?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "disease_019",
+    "domain": "Disease",
+    "question": "How often do you feel like you are losing track of time?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel like you are losing track of time?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "disease_020",
+    "domain": "Disease",
+    "question": "Do you have difficulty with eating or swallowing?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you have difficulty with eating or swallowing?",
+    "difficulty": "hard"
+  }
+]

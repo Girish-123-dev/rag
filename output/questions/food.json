@@ -1,0 +1,282 @@
+[
+  {
+    "id": "food_001",
+    "domain": "Food",
+    "question": "How often does the patient eat independently?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient eat independently?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "food_002",
+    "domain": "Food",
+    "question": "Does the patient recognise common food items?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient recognise common food items?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_003",
+    "domain": "Food",
+    "question": "How often does the patient need help with eating?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient need help with eating?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "food_004",
+    "domain": "Food",
+    "question": "How often does the patient show interest in food?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient show interest in food?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "food_005",
+    "domain": "Food",
+    "question": "How often does the patient drink enough fluids?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient drink enough fluids?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_006",
+    "domain": "Food",
+    "question": "Does the patient need a modified diet?",
+    "options": [
+      "No",
+      "Mildly modified",
+      "Moderately modified",
+      "Severely modified"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient need a modified diet?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_007",
+    "domain": "Food",
+    "question": "How often does the patient refuse food?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient refuse food?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_008",
+    "domain": "Food",
+    "question": "Does the patient recognise when they are hungry?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient recognise when they are hungry?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "food_009",
+    "domain": "Food",
+    "question": "How often does the patient eat non-food items?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient eat non-food items?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "food_010",
+    "domain": "Food",
+    "question": "Does the patient enjoy mealtimes?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient enjoy mealtimes?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "food_011",
+    "domain": "Food",
+    "question": "How often does the patient spill food while eating?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient spill food while eating?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_012",
+    "domain": "Food",
+    "question": "Does the patient need help with drinking?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient need help with drinking?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_013",
+    "domain": "Food",
+    "question": "How often does the patient forget to eat?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient forget to eat?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "food_014",
+    "domain": "Food",
+    "question": "Does the patient recognise the purpose of food?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient recognise the purpose of food?",
+    "difficulty": "hard"
+  },
+  {
+    "id": "food_015",
+    "domain": "Food",
+    "question": "How often does the patient need reminders to eat?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient need reminders to eat?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_016",
+    "domain": "Food",
+    "question": "Does the patient enjoy different types of food?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient enjoy different types of food?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "food_017",
+    "domain": "Food",
+    "question": "How often does the patient eat too quickly?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient eat too quickly?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_018",
+    "domain": "Food",
+    "question": "Does the patient need help with cutting food?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient need help with cutting food?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_019",
+    "domain": "Food",
+    "question": "How often does the patient express thirst?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "How often does the patient express thirst?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "food_020",
+    "domain": "Food",
+    "question": "Does the patient recognise when they are full?",
+    "options": [
+      "Always",
+      "Sometimes",
+      "Rarely",
+      "Never"
+    ],
+    "correct": null,
+    "voice_text": "Does the patient recognise when they are full?",
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "activity_001",
+    "domain": "Activity",
+    "question": "How often do you participate in activities you enjoy?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you participate in activities you enjoy?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_002",
+    "domain": "Activity",
+    "question": "Do you need help with dressing yourself?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with dressing yourself?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_003",
+    "domain": "Activity",
+    "question": "How often do you go for a walk outside?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you go for a walk outside?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_004",
+    "domain": "Activity",
+    "question": "Do you enjoy social activities with others?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "Do you enjoy social activities with others?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_005",
+    "domain": "Activity",
+    "question": "How often do you feel motivated to start new activities?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel motivated to start new activities?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_006",
+    "domain": "Activity",
+    "question": "Do you need help with eating meals?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with eating meals?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_007",
+    "domain": "Activity",
+    "question": "How often do you engage in hobbies or crafts?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you engage in hobbies or crafts?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_008",
+    "domain": "Activity",
+    "question": "Do you need assistance with bathing or showering?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need assistance with bathing or showering?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_009",
+    "domain": "Activity",
+    "question": "How often do you feel tired during the day?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel tired during the day?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_010",
+    "domain": "Activity",
+    "question": "Do you need help with using the toilet?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with using the toilet?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_011",
+    "domain": "Activity",
+    "question": "How often do you participate in group activities?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you participate in group activities?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_012",
+    "domain": "Activity",
+    "question": "Do you need help with moving from bed to chair?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with moving from bed to chair?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_013",
+    "domain": "Activity",
+    "question": "How often do you feel interested in daily activities?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel interested in daily activities?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_014",
+    "domain": "Activity",
+    "question": "Do you need help with preparing meals?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with preparing meals?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_015",
+    "domain": "Activity",
+    "question": "How often do you visit friends or family?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you visit friends or family?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_016",
+    "domain": "Activity",
+    "question": "Do you need help with managing medications?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with managing medications?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_017",
+    "domain": "Activity",
+    "question": "How often do you feel happy during activities?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel happy during activities?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_018",
+    "domain": "Activity",
+    "question": "Do you need help with household chores?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with household chores?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "activity_019",
+    "domain": "Activity",
+    "question": "How often do you listen to music or watch TV?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Often"
+    ],
+    "correct": null,
+    "voice_text": "How often do you listen to music or watch TV?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "activity_020",
+    "domain": "Activity",
+    "question": "Do you need help with using the phone?",
+    "options": [
+      "Never",
+      "Sometimes",
+      "Often",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "Do you need help with using the phone?",
+    "difficulty": "medium"
+  }
+]

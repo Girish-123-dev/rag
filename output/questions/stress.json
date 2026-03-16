@@ -1,0 +1,282 @@
+[
+  {
+    "id": "stress_001",
+    "domain": "Stress",
+    "question": "How often do you feel worried or anxious?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel worried or anxious?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "stress_002",
+    "domain": "Stress",
+    "question": "How often do you feel restless during the day?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel restless during the day?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "stress_003",
+    "domain": "Stress",
+    "question": "How often do you need help to calm down?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you need help to calm down?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_004",
+    "domain": "Stress",
+    "question": "How severe is your reaction to remembering upsetting events?",
+    "options": [
+      "None",
+      "Mild",
+      "Moderate",
+      "Severe"
+    ],
+    "correct": null,
+    "voice_text": "How severe is your reaction to remembering upsetting events?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_005",
+    "domain": "Stress",
+    "question": "How often do you feel sad or lonely?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel sad or lonely?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "stress_006",
+    "domain": "Stress",
+    "question": "How comfortable are you in social settings?",
+    "options": [
+      "Very comfortable",
+      "Somewhat comfortable",
+      "Uncomfortable",
+      "Very uncomfortable"
+    ],
+    "correct": null,
+    "voice_text": "How comfortable are you in social settings?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_007",
+    "domain": "Stress",
+    "question": "How often do you repeat questions due to anxiety?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you repeat questions due to anxiety?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_008",
+    "domain": "Stress",
+    "question": "How often do you feel stressed in large groups?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel stressed in large groups?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_009",
+    "domain": "Stress",
+    "question": "How often do you feel overwhelmed by changes?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel overwhelmed by changes?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_010",
+    "domain": "Stress",
+    "question": "How severe is your stress when plans change suddenly?",
+    "options": [
+      "None",
+      "Mild",
+      "Moderate",
+      "Severe"
+    ],
+    "correct": null,
+    "voice_text": "How severe is your stress when plans change suddenly?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_011",
+    "domain": "Stress",
+    "question": "How often do you feel anxious about your health?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel anxious about your health?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "stress_012",
+    "domain": "Stress",
+    "question": "How often do you feel stressed about daily tasks?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel stressed about daily tasks?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "stress_013",
+    "domain": "Stress",
+    "question": "How often do you feel nervous around strangers?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel nervous around strangers?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_014",
+    "domain": "Stress",
+    "question": "How severe is your stress when you can't remember something?",
+    "options": [
+      "None",
+      "Mild",
+      "Moderate",
+      "Severe"
+    ],
+    "correct": null,
+    "voice_text": "How severe is your stress when you can't remember something?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_015",
+    "domain": "Stress",
+    "question": "How often do you feel stressed when you are alone?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel stressed when you are alone?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "stress_016",
+    "domain": "Stress",
+    "question": "How often do you feel anxious about the future?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel anxious about the future?",
+    "difficulty": "easy"
+  },
+  {
+    "id": "stress_017",
+    "domain": "Stress",
+    "question": "How often do you feel stressed when you can't find something?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel stressed when you can't find something?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_018",
+    "domain": "Stress",
+    "question": "How severe is your stress when you hear loud noises?",
+    "options": [
+      "None",
+      "Mild",
+      "Moderate",
+      "Severe"
+    ],
+    "correct": null,
+    "voice_text": "How severe is your stress when you hear loud noises?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_019",
+    "domain": "Stress",
+    "question": "How often do you feel stressed when you are in a new place?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel stressed when you are in a new place?",
+    "difficulty": "medium"
+  },
+  {
+    "id": "stress_020",
+    "domain": "Stress",
+    "question": "How often do you feel stressed when you have visitors?",
+    "options": [
+      "Never",
+      "Rarely",
+      "Sometimes",
+      "Always"
+    ],
+    "correct": null,
+    "voice_text": "How often do you feel stressed when you have visitors?",
+    "difficulty": "medium"
+  }
+]
